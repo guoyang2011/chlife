@@ -1,0 +1,9 @@
+cn.changhong.chcare.core.webapi
+cn.changhong.chcare.core.webapi.bean
+cn.changhong.chcare.core.webapi.cache
+cn.changhong.chcare.core.webapi.fphone.bean
+cn.changhong.chcare.core.webapi.photowalll.bean
+cn.changhong.chcare.core.webapi.server
+cn.changhong.chcare.core.webapi.util
+cn.changhong.chcare.message
+cn.changhong.sql
